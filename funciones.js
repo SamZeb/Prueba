@@ -2,7 +2,7 @@
     return numeroUno + numeroDos
 } */
 
-let suma = (n1, n2) => n1 + n2
+/* let suma = (n1, n2) => n1 + n2 */
 
 /* console.log(suma(5, 5)) */
 
@@ -47,7 +47,7 @@ let doble = (n1) => n1 * 2
 }
 console.log(mayor(5, 9)) */
 
-let mayor = (n1, n2) => n1 > n2 ? n1 : n2
+/* let mayor = (n1, n2) => n1 > n2 ? n1 : n2
 
 function puedePasar(edad, acomp) {
     if (edad >= 18) {
@@ -57,5 +57,6 @@ function puedePasar(edad, acomp) {
     } else {
          return false
     }
-}
-console.log(puedePasar(13, true))
+} */
+/* console.log(puedePasar(13, true)) */
+
